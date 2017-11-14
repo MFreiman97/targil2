@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 //Aviel Hassid 209209253
 //Matanya Freiman 318281706
-//try
+//try/
 namespace dotNet5778_02_1706_9253
 {
     class Game
