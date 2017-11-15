@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 //Aviel Hassid 209209253
 //Matanya Freiman 318281706
-//try/
+
 namespace dotNet5778_02_1706_9253
 {
     class Game
@@ -21,7 +21,7 @@ namespace dotNet5778_02_1706_9253
         public string winner()
         {
             if ( p2.lose() == true)
-                return "The winner is: " + p1.NAME ;
+                return "The winner is: " + p1.NAME ;//using the property 
             else
                 return "The winner is: "+p2.NAME;
         }//return the name of the winner!
