@@ -5,3 +5,6 @@ C:\Users\מתניה\Documents\Visual Studio 2015\Projects\Cֳֳ# PROJECTS\E2\E2\
 C:\Users\מתניה\Documents\Visual Studio 2015\Projects\Cֳֳ# PROJECTS\E2\E2\obj\Debug\E2.pdb
 C:\Users\מתניה\Documents\Visual Studio 2015\Projects\Cֳֳ# PROJECTS\dotNet5778_02_1706_9253\E2\obj\Debug\E2.exe
 C:\Users\מתניה\Documents\Visual Studio 2015\Projects\Cֳֳ# PROJECTS\dotNet5778_02_1706_9253\E2\obj\Debug\E2.pdb
+C:\Users\Kof\Source\Repos\targil2\E2\bin\Debug\E2.exe.config
+C:\Users\Kof\Source\Repos\targil2\E2\obj\Debug\E2.exe
+C:\Users\Kof\Source\Repos\targil2\E2\obj\Debug\E2.pdb
